@@ -1,0 +1,10 @@
+C:\Users\grial\source\repos\Project-DBL\Project-DBL\bin\Debug\Project-DBL.exe.config
+C:\Users\grial\source\repos\Project-DBL\Project-DBL\bin\Debug\Project-DBL.exe
+C:\Users\grial\source\repos\Project-DBL\Project-DBL\bin\Debug\Project-DBL.pdb
+C:\Users\grial\source\repos\Project-DBL\Project-DBL\obj\Debug\Project-DBL.csprojAssemblyReference.cache
+C:\Users\grial\source\repos\Project-DBL\Project-DBL\obj\Debug\Project_DBL.Form1.resources
+C:\Users\grial\source\repos\Project-DBL\Project-DBL\obj\Debug\Project_DBL.Properties.Resources.resources
+C:\Users\grial\source\repos\Project-DBL\Project-DBL\obj\Debug\Project-DBL.csproj.GenerateResource.cache
+C:\Users\grial\source\repos\Project-DBL\Project-DBL\obj\Debug\Project-DBL.csproj.CoreCompileInputs.cache
+C:\Users\grial\source\repos\Project-DBL\Project-DBL\obj\Debug\Project-DBL.exe
+C:\Users\grial\source\repos\Project-DBL\Project-DBL\obj\Debug\Project-DBL.pdb
