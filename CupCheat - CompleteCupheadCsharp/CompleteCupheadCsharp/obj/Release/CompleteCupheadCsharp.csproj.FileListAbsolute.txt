@@ -1,0 +1,9 @@
+C:\Users\grial\source\repos\CompleteCupheadCsharp\CompleteCupheadCsharp\bin\Release\CompleteCupheadCsharp.exe
+C:\Users\grial\source\repos\CompleteCupheadCsharp\CompleteCupheadCsharp\bin\Release\CompleteCupheadCsharp.pdb
+C:\Users\grial\source\repos\CompleteCupheadCsharp\CompleteCupheadCsharp\obj\Release\CompleteCupheadCsharp.follow.resources
+C:\Users\grial\source\repos\CompleteCupheadCsharp\CompleteCupheadCsharp\obj\Release\CompleteCupheadCsharp.Form1.resources
+C:\Users\grial\source\repos\CompleteCupheadCsharp\CompleteCupheadCsharp\obj\Release\CompleteCupheadCsharp.Properties.Resources.resources
+C:\Users\grial\source\repos\CompleteCupheadCsharp\CompleteCupheadCsharp\obj\Release\CompleteCupheadCsharp.csproj.GenerateResource.cache
+C:\Users\grial\source\repos\CompleteCupheadCsharp\CompleteCupheadCsharp\obj\Release\CompleteCupheadCsharp.csproj.CoreCompileInputs.cache
+C:\Users\grial\source\repos\CompleteCupheadCsharp\CompleteCupheadCsharp\obj\Release\CompleteCupheadCsharp.exe
+C:\Users\grial\source\repos\CompleteCupheadCsharp\CompleteCupheadCsharp\obj\Release\CompleteCupheadCsharp.pdb
